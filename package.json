@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/scaryfly/dummy-communitea2#readme",
   "dependencies": {
+    "dede-tea": "^1.1.4",
     "jquery": "^3.7.1",
     "ramski-tea": "^1.1.4",
     "wtsty-demo-project": "^1.1.1"
